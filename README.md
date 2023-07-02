@@ -1,6 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/105167729?v=4" alt="android" width="900" height="400"/>
-<h1 align="center">Hi 👋, I'm Adeema Amir</h1>
-<h3 align="center">I Am A Web Developer
+  <img src="https://avatars.githubusercontent.com/u/105167729?v=4" alt="android" width="400" height="300"/>
+  <h1 align="center">Hi 👋, I'm Adeema Amir</h1>
+  <h3 align="center">I Am A Web Developer
 Android Developer , IOS Developer
 Game Developer , Metaverse Developer
 React Native , Expo , Python , Django
