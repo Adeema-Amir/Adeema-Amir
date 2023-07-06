@@ -9,7 +9,7 @@ JQuery , MongoDb , express , Node , Next
 Angular , PostgreSQL , Kotlin , Xml
 C# , Swift , Objective C</h3>
 
-- 😘 My First profile is [Adeema Amir Profile](https://adeema-amir-profile.vercel.app/)
+- 😘 My First profile is [Adeema Amir Profile](https://adeema-amir.vercel.app/)
 
 - 😘 My Second website is [Fullstack Cothing Ecommerce](https://fullstack-cothing-ecommerce.vercel.app/)
 
