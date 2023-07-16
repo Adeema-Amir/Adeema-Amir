@@ -1,5 +1,3 @@
-this is my account please follow me
-  
   <img src="https://avatars.githubusercontent.com/u/105167729?v=4" alt="android" width="400" height="300"/>
   <h1 align="center">Hi 👋, I'm Adeema Amir</h1>
   <h3 align="center">I Am A Web Developer
