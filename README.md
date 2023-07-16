@@ -13,7 +13,7 @@ C# , Swift , Objective C</h3>
 
 - 😘 My First profile is [Adeema Amir Profile](https://adeema-amir.vercel.app/)
 
-- 😘 My Second website is [Fullstack Cothing Ecommerce](https://fullstack-cothing-ecommerce.vercel.app/)
+- 😘 My Second website is [Amir Simple Profile](https://adeema.vercel.app/)
 
 - 🥰 My Third website is [Furniture Advertisement](https://furniture-advertisement.vercel.app/)
 
