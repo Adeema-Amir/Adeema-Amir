@@ -1,12 +1,5 @@
  <h1 align="center">Hi I am Adeema Amir</h1>
-  <h3 align="center">I Am A Web Developer
-Android Developer , IOS Developer
-Game Developer , Metaverse Developer
-React Native , Expo , Python , Django
-Html , CSS , Java , JavaScript , Typescript
-JQuery , MongoDb , express , Node , Next
-Angular , PostgreSQL , Kotlin , Xml
-C# , Swift , Objective C</h3>
+  <h3 align="center">I'm ,a front end developer at NWOIT with 2 years of experience in designing and developing web applications</h3>
 
 - 😘 My First profile is [Adeema Amir Profile](https://adeema-amir.vercel.app/)
 
