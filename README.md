@@ -1,5 +1,5 @@
  <h1 align="center">Hi I am Adeema Amir</h1>
-  <h3 align="center">I'm a front end developer at VissWeb with 2 years of experience in designing and developing web applications</h3>
+  <h3 align="center">I'm a front end developer at OnlineCompanies with 2 years of experience in designing and developing web applications</h3>
 
 - 😘 My First profile is [Adeema Amir Profile](https://adeema-amir.vercel.app/)
 
